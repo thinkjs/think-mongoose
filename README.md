@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-mongoose.
+
 # think-mongoose
 
 [![npm](https://img.shields.io/npm/v/think-mongoose.svg?style=flat-square)]()
